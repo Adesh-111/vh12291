@@ -28,6 +28,15 @@ This is a lightweight and extensible **URL Shortener API** built with **Node.js*
 
 ---
 
+### Screenshots
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8c22f35f-ee85-4c44-8440-3166fc07411c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b98ff60e-3050-4dcb-a187-067e040db7ad" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/45fdd24e-87d0-424d-81c2-a36a78e03574" />
+
+
+
+
 ### 📁 Installation
 
 ```bash
