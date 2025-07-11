@@ -1,4 +1,4 @@
-# 🔗 URL Shortener with Expiry and Logging
+# 🔗 URL Shortener
 
 This is a lightweight and extensible **URL Shortener API** built with **Node.js** and **Express.js**, supporting:
 
